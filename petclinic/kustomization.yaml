@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-petclinic-demo
-  newTag: 18-nocritical
+- name: docker.io/opsmx11/dev-petclinic-sanboxpoc
+  newTag: 1-nocritical
